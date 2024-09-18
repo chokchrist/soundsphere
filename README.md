@@ -5,7 +5,7 @@ Soundsphere es una plataforma  que te permite disfrutar de la música mientras s
 - [Instalación](#instalacion)
 - [Uso](#uso)
 
-## Installation
+## Instalación
 1. Clona el repositorio:
 ```bash
  git clone https://github.com/chokchrist/soundsphere.git
